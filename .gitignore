@@ -1,0 +1,20 @@
+#Virtual environment directory
+.venv
+venv/
+
+# Environment configuration variable files
+# It contains configuration settings and environment variables that are necessary for 
+# the application to run correctly.
+env.py
+.env
+env.*
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+#VsCode settings directory
+.vscode/
+
+#Os generated files
+Thumbs.db
